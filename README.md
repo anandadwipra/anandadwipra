@@ -3,7 +3,7 @@
   <img align="left" alt="Ananda's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://instagram.com/ananda.dwi.p">
-  <img align="left" alt="ananda | Instagram" width="22px" src="https://raw.githubusercontent.com/anandadwip/anandadwip/main/assets/instagram.svg" />
+  <img align="left" alt="ananda | Instagram" width="22px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/">
   <img align="left" alt="ananda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
