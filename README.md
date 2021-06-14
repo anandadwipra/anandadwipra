@@ -3,7 +3,7 @@
   <img align="left" alt="Ananda's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://instagram.com/ananda.dwi.p">
-  <img align="left" alt="ananda | Instagram" width="22px" src="https://raw.githubusercontent.com/anandadwip/anandadwip/master/assets/instagram.svg" />
+  <img align="left" alt="ananda | Instagram" width="22px" src="https://raw.githubusercontent.com/anandadwip/anandadwip/main/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/">
   <img align="left" alt="ananda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -21,7 +21,7 @@ Hi, I'm [Ananda Dwi Prayoga](https://www.instagram.com/ananda.dwi.p), a passiona
 I'm also a fan and maintainer of open-source. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/anandadwipra/anandadwipra/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/main/code.gif" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:anandabiru04@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
