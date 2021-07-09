@@ -35,15 +35,10 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **My Github Most Used Language:**
 <!--START_SECTION:waka-->
-```text
-Python 29 hrs 32 mins         █████████████████████░░░░   84.44 % 
-PHP     3 hrs 27 mins         ███████████████▒░░░░░░░░░   59.91 % 
-HTML          59 mins         ██████████████▓░░░░░░░░░░   52.84 % 
-CSS           49 mins         ███████▓░░░░░░░░░░░░░░░░░   32.38 % 
-JSON           8 mins         ██████▓░░░░░░░░░░░░░░░░░░   29.39 % 
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandadwipra&theme=vue">
+
 <!--END_SECTION:waka-->
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
