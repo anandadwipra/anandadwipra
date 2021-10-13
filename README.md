@@ -1,23 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discordapp.com/users/882232353215352872">
-  <img align="left" alt="Ananda's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://instagram.com/ananda.dwi.p">
-  <img align="left" alt="ananda | Instagram" width="42px" src="https://raw.githubusercontent.com/anandadwipra/anandadwipra/2144a29d114bc4b54876a9af4d8e88ebf8ab5d85/assets/1.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/">
-  <img align="left" alt="ananda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/ananda.dwi.75641297/">
-  <img align="left" alt="ananda's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+
+![mailto:anandabiru04@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://www.instagram.com/ananda.dwi.p/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.facebook.com/ananda.dwi.75641297/](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)
+![https://discordapp.com/users/882232353215352872/](https://img.shields.io/badge/Discord-2807ba?style=for-the-badge&logo=discord&logoColor=white)
+![https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)
+![https://www.youtube.com/channel/UCFElo-EB2GaTOzraBhT-wZw/featured](https://img.shields.io/badge/YouTube-ed2e11?style=for-the-badge&logo=youtube&logoColor=white)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anandadwipra.anandadwipra)
 
 <br />
+
 
 Hi, I'm [Ananda Dwi Prayoga](https://www.instagram.com/ananda.dwi.p), a passionate self-taught DevOps and freelance Network engineer from Indonesia. My passion for software lies in dreaming up ideas and turning them into programs that can streamline and simplify work. I take great care in the experience, architecture, and practicality of the programs and configs I create.
 
