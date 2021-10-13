@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![mailto:anandabiru04@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.instagram.com/ananda.dwi.p/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.facebook.com/ananda.dwi.75641297/](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)
-![https://discordapp.com/users/882232353215352872/](https://img.shields.io/badge/Discord-2807ba?style=for-the-badge&logo=discord&logoColor=white)
-![https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)
-![https://www.youtube.com/channel/UCFElo-EB2GaTOzraBhT-wZw/featured](https://img.shields.io/badge/YouTube-ed2e11?style=for-the-badge&logo=youtube&logoColor=white)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandabiru04@gmail.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ananda.dwi.p/)
+[![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ananda.dwi.75641297/)
+[![](https://img.shields.io/badge/Discord-2807ba?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/882232353215352872/)
+[![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/)
+[![](https://img.shields.io/badge/YouTube-ed2e11?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFElo-EB2GaTOzraBhT-wZw/featured)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anandadwipra.anandadwipra)
