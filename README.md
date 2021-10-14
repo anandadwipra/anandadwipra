@@ -47,11 +47,8 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 <br />
 <div align="center">
   <h3>📊 My Github Stats And Most Used Language: </h3>
-<a href="https://github.com/anandadwipra">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandadwipra&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
-<a href="https://github.com/anandadwipra">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandadwipra&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
-</a>        
 </div>
 
 <!--END_SECTION:waka-->
