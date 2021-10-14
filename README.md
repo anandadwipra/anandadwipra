@@ -35,6 +35,7 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 <h3>Technologies and Tools:</h3>    
     <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/NEO_VIM-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
