@@ -1,36 +1,40 @@
+ 
+" To Open zo, To close zc
+" Empty ------------- {{{
+" }}}
+
+" General ------------- {{{
 set nocompatible " be improved
 filetype plugin indent on "enable file detection and plugins
 syntax on " enable syntax hightlighting
 set encoding=utf-8 " set default encoding to utf-8
 set tabstop=4  " how many space to display tab
-set shiftwidth=4 " how many space every level of indentation
-set expandtab " convert tab to space
-set autoindent " preserve indentation
-set smartindent " smart indentation for languages
-set number " show line numbers
-" set relativenumber " set relative number
-set mouse=a " enable mouse support
-set hlsearch " highligt all search patterns
-set incsearch " enable incremental search
-set hidden " navigate to another buffer without saving current buffer
+set shiftwidth=4 " how many space every level of indentation 
+set expandtab " convert tab to space 
+set autoindent " preserve indentation 
+set smartindent " smart indentation for languages 
+set number " show line numbers 
+"set relativenumber " set relative number 
+set mouse=a " enable mouse support 
+set hlsearch " highligt all search patterns 
+set incsearch " enable incremental search 
+set hidden " navigate to another buffer without saving current buffer 
 set fdm=indent " set fold method to indent 
-set foldlevelstart=99 " fold level when open a file (make all fold open)
-set ignorecase " case insensitive search by default
-set smartcase " case sensitive search when using uppercase characters
+set foldlevelstart=99 " fold level when open a file (make all fold open) 
+set ignorecase " case insensitive search by default 
+set smartcase " case sensitive search when using uppercase characters 
 set cursorline " highlight current line
 set dictionary+=/usr/share/dict/words " setup dictionary file
 set colorcolumn=120 " display color margin (80 chars)
 set splitbelow splitright " set default position for where a split open
+" }}}
 
 
-
-
-" Keybindings
-
+" Keybindings ------------------ {{{
 " leader keys
 let mapleader=" "
 let maplocalleader="\\"
-
+"
 " faster way to ESC from insert mode
 imap kj <ESC>
 
@@ -83,14 +87,21 @@ nnoremap <leader><tab> <C-^>
 nnoremap <leader>yy :normal "+yy<CR>
 
 " Add current selected text to X Clipboard
-nnoremap <leader>yy :normal gv"+y<CR>
+xnoremap <leader>yy :normal gv"+y<CR>
+
+
+" Jump up 4 line in normal mode
+nnoremap <silent> <C-k> :normal 4k<CR>
+" Jump down 4 line in normal mode
+nnoremap <silent> <C-j> :normal 4j<CR>
+" Jump up 4 line in visual mode
+xnoremap <silent> <C-k> :normal gv4k<CR>
+" Jump down 4 line in visual mode
+xnoremap <silent> <C-k> :normal gv4k<CR>
 
 
 
-
-
-
-
+" }}}
 
 
 
@@ -128,4 +139,7 @@ augroup exe_code
 augroup END
 
 
-
+augroup congif_setting
+    autocmd!
+    autocmd FileType vim setlocal foldlevel=0 foldmethod=marker
+augroup END
