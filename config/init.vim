@@ -66,7 +66,7 @@ nnoremap <leader>c :q<CR>
 nnoremap <leader>w :w<CR>
 
 " Close without saving
-nnoremap <leader>e :q!<CR>
+nnoremap <leader>q :q!<CR>
 
 " Navigate between tabs
 nnoremap <leader>1 gt1
@@ -79,6 +79,11 @@ nnoremap <leader>ar :setlocal cursorline!<CR>
 
 " Toggle hightlight current column
 nnoremap <leader>ac :setlocal cursorcolumn!<CR>
+
+" Open File Explorer
+nnoremap <leader>e :Sexplore<CR>
+
+
 
 " Switch between to buffer 
 nnoremap <leader><tab> <C-^>
