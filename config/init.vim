@@ -112,7 +112,7 @@ xnoremap <silent> <C-k> :normal gv4k<CR>
 
 
 " Plugin
-call plug#begin('/home/ananda/.local/share/nvim/plugged')
+call plug#begin('$HOME/.local/share/nvim/plugged')
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'chriskempson/base16-vim'
