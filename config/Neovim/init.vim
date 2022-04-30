@@ -68,6 +68,9 @@ nnoremap <leader>w :w<CR>
 " Close without saving
 nnoremap <leader>q :q!<CR>
 
+" Run Go "
+nnoremap <leader>b :GoRun<CR>
+
 " Navigate between tabs
 nnoremap <leader>1 gt1
 nnoremap <leader>2 gt2
@@ -104,7 +107,9 @@ xnoremap <silent> <C-k> :normal gv4k<CR>
 " Jump down 4 line in visual mode
 xnoremap <silent> <C-k> :normal gv4k<CR>
 
-
+"Emmet shortcuts
+let g:user_emmet_mode='n' "only enable normal mode functions.
+let g:user_emmet_leader_key= ','
 
 " }}}
 
@@ -120,6 +125,8 @@ Plug 'townk/vim-autoclose'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
+Plug 'mattn/emmet-vim'
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 call plug#end()
 
 " setup colorscheme
